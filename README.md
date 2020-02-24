@@ -1,4 +1,5 @@
 # React-app minimal template
+Fork or clone this repository to start your React project.
 
 ## Usage
 
